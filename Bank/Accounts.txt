@@ -1,0 +1,5 @@
+1054,Shiv Kumar,0809808,80989,19,Male,Shiv,Shiv1234!,Savings Account,Naz,86500.0
+1058,Rohit Raja,033345435,908908,62,Male,k214616@nu.edu.pk,rohit1234,Savings Account,Karachi,17700.0
+1059,Shiv Kumar,033333,7897,19,Male,ShivKumar,Shiv1234,Savings Account,Fast,7100.0
+1066,Shiv K,20,0904834,19,Male,Shiv,Shvi1234,Current Account,Shiv1234,9.90003E7
+1070,Vini,033128394,974307897,19,Male,ronit1519@gmail.com,Vini1234!,Current Account,Naz,0.0
