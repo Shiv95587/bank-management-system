@@ -28,4 +28,4 @@ The **Bank Management System** is a desktop application built using **Java** and
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/bank-management-system.git
+   git clone https://github.com/Shiv95587/bank-management-system.git
